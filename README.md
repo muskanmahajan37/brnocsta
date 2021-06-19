@@ -4,7 +4,7 @@
 as pessoas poderem criar coisas que resolvem problemas.
 - 💞️ Atualmente estou estudando sobre programação e estou acompanhando algumas pessoas mais experientes e percebo 
 a importância da colaboração para o crescimento de conhecimento.
-- 📫 Posso ser encontrado no twitte @brnocsta e no email brnocstaslva@yahoo.com
+- 📫 Posso ser encontrado no twitter @brnocsta e no email brnocstaslva@yahoo.com
 
 <!---
 brnocsta/brnocsta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
